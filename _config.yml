@@ -1,0 +1,9 @@
+title: Il mio Blog
+description: Benvenuti nel mio blog!
+
+
+theme: Millennial
+
+# Impostazioni aggiuntive, come ad esempio:
+# Permalink personalizzato
+permalink: /:categories/:year/:month/:day/:title/
